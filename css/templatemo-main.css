@@ -1,6 +1,6 @@
-/* 
+/*
 
-Moonlight Template 
+Moonlight Template
 
 https://templatemo.com/tm-512-moonlight
 
@@ -10,7 +10,7 @@ https://templatemo.com/tm-512-moonlight
   50% {
     opacity: 1;
   }
-  
+
   100% {
     opacity: 0;
   }
@@ -200,6 +200,8 @@ nav .logo {
 nav .logo img {
 	max-width: 100%;
 	overflow-y: hidden;
+  height: 120px;
+  width: 120px;
 }
 
 nav ul {
