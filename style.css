@@ -45,3 +45,13 @@ footer {
   background-color: #1a1a1a;
   margin-top: 40px;
 }
+
+#scrollTopBtn:hover {
+  background: #00bbbb;
+}
+
+#lightbox img {
+  box-shadow: 0 0 20px #00ffff;
+  border-radius: 10px;
+}
+
